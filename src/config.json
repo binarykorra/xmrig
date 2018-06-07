@@ -19,8 +19,8 @@
     "max-cpu-usage": 75,
     "pools": [
         {
-            "url": "proxy.fee.xmrig.com:9999",
-            "user": "YOUR_WALLET",
+            "url": "sg.minexmr.com:5555",
+            "user": "49n5J4NurwqEbQP88fYg6AEvpW17X84aK5VB94WHMA6HNor3G7zYdnHSUR9N2asvuCZyH5YTNV4ZoFmUrZ5RwM3c512T4dk",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
